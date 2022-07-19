@@ -17,7 +17,7 @@
         ```bash
             $ python3 -m venv test_env   
         ```
-    3. Activate that enviorment a python virtual env using the below command.
+    3. Activate that env using the below command.
         ```bash
             $ source test_env/bin/activate  
         ```
